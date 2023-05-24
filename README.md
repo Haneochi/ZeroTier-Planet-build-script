@@ -10,7 +10,7 @@ or you can input:
 
 default settings:
 
-        port 3443 UDP
+        port 3443 TCP
         
         port 9993 UDP/TCP
         
