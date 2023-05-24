@@ -10,7 +10,8 @@ or you can input:
 
 default port 3443 UDP
         port 9993 UDP/TCP
-        
+        user : admin
+        password : password
         
 
 via https://yourip:3443 to use ztncui gui
