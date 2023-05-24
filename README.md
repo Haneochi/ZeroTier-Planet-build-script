@@ -1,6 +1,9 @@
 # ZeroTier-Planet-build-script
 one sh scripe for build ZeroTier Planet
 Dragging Build.sh into /root then input chmod -x Build.sh && ./Build.sh
+or you can input:
+        wget https://raw.githubusercontent.com/Haneochi/ZeroTier-Planet-build-script/main/Build.sh && chmod -x Build.sh && ./Build.sh
+        
 
 
 default port 3443 UDP
