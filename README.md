@@ -8,9 +8,14 @@ or you can input:
         
 
 
-default port 3443 UDP
+default settings:
+
+        port 3443 UDP
+        
         port 9993 UDP/TCP
+        
         user : admin
+        
         password : password
         
 
